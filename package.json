@@ -1,0 +1,20 @@
+{
+  "name": "authen",
+  "version": "1.0.0",
+  "description": "simple test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "crypto-guy",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "express-handlebars": "^3.1.0",
+    "mongoose": "^5.7.4",
+    "passport": "^0.4.0",
+    "passport-local": "^1.0.0",
+    "save": "^2.4.0"
+  }
+}
