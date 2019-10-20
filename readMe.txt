@@ -16,3 +16,5 @@ or you can import the 'studentData.json' file to your database as a collection.
 4. The information is stored with the student's ID.
 5. All booked rooms are showed in the last page. 
 
+This is an api server and endpoint routes for an Hall registration system.
+
