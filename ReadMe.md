@@ -1,6 +1,9 @@
-    ------------------ Class Project --------------------
+ #   ------------------ Class Project --------------------
                 Server&Routes
-ID:10665476
+ ID:10665476
+ 
+ # Installation
+ npm install
 
 1. You can check out the dependencies in the 'package.json' file to install them.
 2. When you run it, it displays the home page that with two buttons.
